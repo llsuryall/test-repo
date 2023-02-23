@@ -1,0 +1,17 @@
+My first paper was about a navigation system that used smartphone cameras to recognize visual markers. It was written by these 4 people from IIT-BHU.
+
+So, the paper starts with explaining the shortcomings of GPS. How GPS uses 24 satelites, consisting of 6 satelites in orbital planes, 4 functional satelites and a spare satelite in each orbital plane, which was being hosted by the US Department of Defense. And it references other papers that have explained regarding attenuation rates of GPS signals and specifies it to be 1dB/metre of the structure.
+
+Due to these attenuated signals, it becomes increasingly difficult for smartphones to connect with these satelites. The smartphone needs to be connected at least 4 satelites for it to use the TRILATERATION.
+
+It also tells how GPS is based on time-of-flight calculations and how this fails when there are reflective surfaces indoors.
+
+After this they have tried to propose an approach that does not require any external hardware like WiFi APs. So they studied this by taking help of navigation systems in vehicles. They have taken examples like, Navion which is a swiss navigation system that can be mounted on any cars windsheild and it shows holograms for navigation. Then BMW cars that are coming up with a simmilar approach, that accomodate even a wearable device called BMW Mini with this.
+
+
+
+
+
+https://www.canva.com/design/DAFa5Rwgeq4/H3JoQTjsnlTJ1Y8nLPq82A/edit?utm_content=DAFa5Rwgeq4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+https://www.canva.com/design/DAFa5RPKsKg/UZryinY5u0cci7RsyAV1zQ/edit?utm_content=DAFa5RPKsKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
